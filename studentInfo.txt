@@ -1,4 +1,0 @@
-
-Name,2015 GPA,2016 GPA,2017 GPA 
-Aaryahi , D , A , B
-Vandu , A , F , C

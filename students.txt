@@ -1,5 +1,0 @@
-Casper's math score is 91, history score is 43, coding score is 92
-Cassy's math score is 100, history score is 0, coding score is 1
-Vandu's math score is 98, history score is 23, coding score is 70
-Nikunj's math score is 92, history score is 100, coding score is 76
-Aari's math score is 19, history score is 89, coding score is 72
